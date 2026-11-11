@@ -1,0 +1,12 @@
+{
+ "edition": "drayhima",
+ "channel": "beta",
+ "v": 74,
+ "appv": "2026-11-12 v74",
+ "file": "ras-drayhima-v74.upd",
+ "size": 970516,
+ "sha256": "e7f41e3ab4f3b11739877afacee4b7209e1a43a7ded85cb7f3f19c370ed79a50",
+ "notes": "• إصلاح استيراد عقد إيجار وقراءة كشف البنك PDF\n• التحديث صار بضغطة زر دون رفع ملفات",
+ "sig": "aQigHBHTkRTv3G7NY5BWMKe3FhxgB4NK7uqsdVtdUvr1GY6KIRQBURIZblPZKPZRldDCaLOfivSRbqOPkqsQAw==",
+ "enc": "aes-256-gcm"
+}
