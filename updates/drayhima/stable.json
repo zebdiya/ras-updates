@@ -1,12 +1,12 @@
 {
  "edition": "drayhima",
  "channel": "stable",
- "v": 74,
- "appv": "2026-11-12 v74",
- "file": "ras-drayhima-v74.upd",
- "size": 970516,
- "sha256": "e7f41e3ab4f3b11739877afacee4b7209e1a43a7ded85cb7f3f19c370ed79a50",
- "notes": "• إصلاح استيراد عقد إيجار وقراءة كشف البنك PDF\n• التحديث صار بضغطة زر دون رفع ملفات",
- "sig": "iBq94S1MovO3l8/QSeJMscGaWQ43EMqi/GRd+K1FZyPNxUwj8axszZlxnCDusiPVo8n+NoqhlcYIzBj/rb6JCw==",
+ "v": 75,
+ "appv": "2026-11-19 v75",
+ "file": "ras-drayhima-v75.upd",
+ "size": 971523,
+ "sha256": "5f52bffc23f3e4661d389113a919036eae5ec9a73bfb95d1714c48fe516e8662",
+ "notes": "سجل الهيوج: شاشة الهيوج تعرض الآن كل الدفعات المحصّلة مع العمولة والصافي، وإجمالي العمولة لكل مستأجر.",
+ "sig": "yz/Ws8hI7IJ+6OivQy8vcwK6e2Cccu+aXlEmd4WgYKogn7ufLyumwKz0reaLgJjnmxXLNNAwg2xOWgdIvILZBA==",
  "enc": "aes-256-gcm"
 }
