@@ -1,12 +1,12 @@
 {
  "edition": "drayhima",
  "channel": "beta",
- "v": 76,
- "appv": "2026-11-19 v76",
- "file": "ras-drayhima-v76.upd",
- "size": 971532,
- "sha256": "b3365c31bfd984e9a6af415f57429462497d79b3eb68f1c1828ffc756736a207",
- "notes": "سجل الهيوج: زر المرفقات (السندات والفواتير) لكل دفعة",
- "sig": "8IvhM1/NaGvIcCnKko2AbCrvqdW7OyUoZZtJdJw5NKVp+au4roETJtR6A3Uwz9pazdCMdWTJxLFuKYSSvXYhDQ==",
+ "v": 77,
+ "appv": "2026-11-19 v77",
+ "file": "ras-drayhima-v77.upd",
+ "size": 980271,
+ "sha256": "edece6b2a77042ccef981a23bfb1be90fb7e7b84f683da89aa05bd5aa009e519",
+ "notes": "تصميم احترافي جديد: كشف الحساب (صفحات A4 ثابتة، التاريخ في سطر واحد، شريط ملخص، رأس متكرر، ترقيم الصفحات) وسندات القبض والصرف بتصميم جديد على ورق A4 عادي",
+ "sig": "o/gidznipg1pjU+EsVFT3Vgyjb3JW8O8fMyZcOat+R4RiyGe5hoptYC8tIeFEd/YPaxFfBknRXfaAzBJQgS2Dg==",
  "enc": "aes-256-gcm"
 }
