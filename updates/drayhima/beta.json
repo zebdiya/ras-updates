@@ -1,12 +1,12 @@
 {
  "edition": "drayhima",
  "channel": "beta",
- "v": 79,
- "appv": "2026-11-19 v79",
- "file": "ras-drayhima-v79.upd",
- "size": 987769,
- "sha256": "5a700955516ff719d6ef9085a0707924a9685f1cd7c5f932cc1d2240ecbf7c24",
- "notes": "v79: الضريبة تُحسب لكل قسط خاضع (الفاتورة عند طلب المستأجر فقط) وتحسين صياغة الشاشة، إضافة تقرير ضريبة القيمة المضافة والرقم الضريبي للمستأجر وإلغاء مطابقة البنك",
- "sig": "tn6+Lc+ZYRwlu1pDSa/PjbOVntNpyb6c1Q5y5b33YUdYE59TuWdTCvUJUDyxqtY+1PH/CbCiwZSvooicT5OYCg==",
+ "v": 80,
+ "appv": "2026-11-19 v80",
+ "file": "ras-drayhima-v80.upd",
+ "size": 987865,
+ "sha256": "c8774b1fc60176efc05c0399865f2c3acd723902f7cd51f0303bdf5d0b6508ff",
+ "notes": "شاشة الصندوق: الحركات الأحدث تظهر أولاً.",
+ "sig": "1gyA667XA38XWGfys3t97z7HBQHZ1scrbQOfElvRIjNS3JDGudTid7L9jGwJL4tQ88D/TfKtT0la2iVat6wdAQ==",
  "enc": "aes-256-gcm"
 }
