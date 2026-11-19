@@ -1,12 +1,12 @@
 {
  "edition": "drayhima",
  "channel": "stable",
- "v": 78,
- "appv": "2026-11-19 v78",
- "file": "ras-drayhima-v78.upd",
- "size": 987731,
- "sha256": "9b3f3f639158b957660a8269e7e93796b3b4ffee95030f4f16d9b93e11ead4bc",
- "notes": "v78: شاشة ضريبة القيمة المضافة (تتبّع وتقرير ربع سنوي وتسجيل الفواتير)، حقلا الرقم الضريبي والعنوان الوطني في بطاقة المستأجر، زر إلغاء مطابقة البنك دون حفظ وتاريخ بداية تلقائي",
- "sig": "XvfCb1RroJn0G2FrMEiGu+Q+1kK4gPTMhSrL4mUZ8wDCQVlgHrjZi5zE1vCJ+3YJlrLe+M9MjGG6TCZfMXonAg==",
+ "v": 79,
+ "appv": "2026-11-19 v79",
+ "file": "ras-drayhima-v79.upd",
+ "size": 987769,
+ "sha256": "5a700955516ff719d6ef9085a0707924a9685f1cd7c5f932cc1d2240ecbf7c24",
+ "notes": "v79: الضريبة تُحسب لكل قسط خاضع (الفاتورة عند طلب المستأجر فقط) وتحسين صياغة الشاشة، إضافة تقرير ضريبة القيمة المضافة والرقم الضريبي للمستأجر وإلغاء مطابقة البنك",
+ "sig": "NAXLbLkjf+GGLtsDk24cn/w6q3RrKE0p/OHtqGPhLefenL2hmFgPzIBUF64Dkan3qh6mN+EKWMDTny0yo933Bw==",
  "enc": "aes-256-gcm"
 }
