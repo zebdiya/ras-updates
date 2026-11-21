@@ -1,12 +1,12 @@
 {
  "edition": "drayhima",
  "channel": "beta",
- "v": 85,
- "appv": "2026-11-21 v85",
- "file": "ras-drayhima-v85.upd",
- "size": 990110,
- "sha256": "f2edb55209680fb10fa48c62cc62ec2600e4dd7ee69cd8b341d804ef4fd028ca",
- "notes": "تحسين شكل الدفاتر والكشوف: وصف مختصر بعنوان وسطر مرجع، وأرقام وأزرار أيقونات مرتبة.",
- "sig": "0hs/vc+8jyf3uWdjiBvpgg8O+5tZCM6o1Bt3Cr8kriD+oZplv7abPuocGp2M7+gsNx7Eutio3DBj9yksXVxXBw==",
+ "v": 86,
+ "appv": "2026-11-21 v86",
+ "file": "ras-drayhima-v86.upd",
+ "size": 992023,
+ "sha256": "3bf4ff73a12e6bcdb0b5fd576198148bad32d4be6049ab0e81d77b0f594caa25",
+ "notes": "فواتير كهرباء الملاحق: ظهور ملاحق سكن العمال، وخيار «مبلغ مقطوع» لتقسيم الفاتورة بالتساوي على الملاحق.",
+ "sig": "28y8VbpMQHgMT6Lk3fcSRJMKaMwdf02ZlzItHbuhkCYVD+zkQHyVsJH0xaMxRgHtm/g3uR/0AQeRg0nQzMCoAw==",
  "enc": "aes-256-gcm"
 }
