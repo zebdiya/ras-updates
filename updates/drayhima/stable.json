@@ -1,12 +1,12 @@
 {
  "edition": "drayhima",
  "channel": "stable",
- "v": 82,
- "appv": "2026-11-21 v82",
- "file": "ras-drayhima-v82.upd",
- "size": 988546,
- "sha256": "0fb2a474ca34f8a6e37751954f4351260e000934d568f0a6649aacebc08c0116",
- "notes": "إصلاح: تعديل جهة التحصيل في العقد لم يكن يُحفظ بسبب خطأ في سجل التدقيق.",
- "sig": "pkG2dg8493SIxIKm1Pb4d/LYHONQiIP1nxUiASp2BrWhDuAYyd8AihfXT2shlqI7HfOB205KpZxxBE66+6HxAQ==",
+ "v": 83,
+ "appv": "2026-11-21 v83",
+ "file": "ras-drayhima-v83.upd",
+ "size": 988886,
+ "sha256": "1d62538ba975b00923657e2bf2502082914da8ce09ab4dfe81f102c148f3fb61",
+ "notes": "المستحقات: عمود الجوال برقم المستأجر، ولا يظهر «واتساب» ولا أعمدة فارغة في الطباعة.",
+ "sig": "mAKvMRcAt25JSev5AMG4DMpwEnHIYLBiB0/kXAKBYK1laKlYuUcGtZc9qBCUWaVFjpMxpBcPLJQSIVN6BI0eAQ==",
  "enc": "aes-256-gcm"
 }
