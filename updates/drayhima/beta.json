@@ -1,12 +1,12 @@
 {
  "edition": "drayhima",
  "channel": "beta",
- "v": 87,
- "appv": "2026-11-21 v87",
- "file": "ras-drayhima-v87.upd",
- "size": 993030,
- "sha256": "eb30fc520498671790b71bcb859b81b137de9510b62510ec1219e99b7fdb092e",
- "notes": "تسريع وصول التحديثات: الفحص من واجهة GitHub مباشرة بدل الذاكرة المؤقتة (5 دقائق)، وصفحة الإعدادات تفحص تلقائيًا.",
- "sig": "CM9NffxXuFfG7EADenfXE1CbqQpEg6NvIg/fn/L15v56KOh6eDilo42AYeSyJ6gbG0Twq2g5RIqiYFFFWoz+CQ==",
+ "v": 88,
+ "appv": "2026-11-21 v88",
+ "file": "ras-drayhima-v88.upd",
+ "size": 994421,
+ "sha256": "3cfe0ee7a7333d3d68b29ada9d802c183b5c0680a60d26358ca13f67f9493ec4",
+ "notes": "شاشة الرواتب تعرض رواتب الأشهر السابقة من الدفاتر مفصّلة لكل موظف، وشاشة الصرف لا تعدّ الحوالات المصحَّحة. وفحص التحديثات صار كل دقيقة.",
+ "sig": "Q1Uh7dvNwHCXzYf+/YUS1rucZua7q07gqQDszdspToWwnvbX5Yb240XEFxk/BZkKuS0Nqwnlgxt5Y78Z5wcyDw==",
  "enc": "aes-256-gcm"
 }
