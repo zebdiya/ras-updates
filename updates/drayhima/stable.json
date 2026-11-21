@@ -1,12 +1,12 @@
 {
  "edition": "drayhima",
  "channel": "stable",
- "v": 81,
- "appv": "2026-11-19 v81",
- "file": "ras-drayhima-v81.upd",
- "size": 988452,
- "sha256": "6d8f0168e0b00090402abdba2b79f124e4c154b5986aa85639b118fca0af4d29",
- "notes": "الصندوق وبنك الأهلي: الأحدث أولاً. العقود: مرتبة حسب الوحدة (الأحدث أولاً داخل الوحدة) مع مربع بحث.",
- "sig": "Zwoiv7L0fl2KOK5Zuvi2BKatEpMH8UeskclE+xtFyqWokkJGkUw525oUAquXCYoQ4Nk4LadrPe7xpPhWHSq0Cw==",
+ "v": 82,
+ "appv": "2026-11-21 v82",
+ "file": "ras-drayhima-v82.upd",
+ "size": 988546,
+ "sha256": "0fb2a474ca34f8a6e37751954f4351260e000934d568f0a6649aacebc08c0116",
+ "notes": "إصلاح: تعديل جهة التحصيل في العقد لم يكن يُحفظ بسبب خطأ في سجل التدقيق.",
+ "sig": "pkG2dg8493SIxIKm1Pb4d/LYHONQiIP1nxUiASp2BrWhDuAYyd8AihfXT2shlqI7HfOB205KpZxxBE66+6HxAQ==",
  "enc": "aes-256-gcm"
 }
