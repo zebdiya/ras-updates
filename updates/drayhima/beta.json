@@ -1,12 +1,12 @@
 {
  "edition": "drayhima",
  "channel": "beta",
- "v": 88,
- "appv": "2026-11-21 v88",
- "file": "ras-drayhima-v88.upd",
- "size": 994421,
- "sha256": "3cfe0ee7a7333d3d68b29ada9d802c183b5c0680a60d26358ca13f67f9493ec4",
- "notes": "شاشة الرواتب تعرض رواتب الأشهر السابقة من الدفاتر مفصّلة لكل موظف، وشاشة الصرف لا تعدّ الحوالات المصحَّحة. وفحص التحديثات صار كل دقيقة.",
- "sig": "Q1Uh7dvNwHCXzYf+/YUS1rucZua7q07gqQDszdspToWwnvbX5Yb240XEFxk/BZkKuS0Nqwnlgxt5Y78Z5wcyDw==",
+ "v": 89,
+ "appv": "2026-11-21 v89",
+ "file": "ras-drayhima-v89.upd",
+ "size": 994810,
+ "sha256": "2996f9861cd7b4daf02fa0e8d81a40ba74f20f66b3c272d250d20aa781ea4013",
+ "notes": "كشف الحساب: زر «عرض الكشف» يعطي رسالة واضحة بعدد الحركات والرصيد ويمرّر إلى الجدول.",
+ "sig": "yiEyVwutoZaIbYLrmvd0SKfK9jFNRf9GXgSahkY7RgQvm4nGlMOzGIPVvSzkNQgo0n+BGXea75drioBnfW/5Bg==",
  "enc": "aes-256-gcm"
 }
