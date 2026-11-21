@@ -1,12 +1,12 @@
 {
  "edition": "drayhima",
  "channel": "beta",
- "v": 83,
- "appv": "2026-11-21 v83",
- "file": "ras-drayhima-v83.upd",
- "size": 988886,
- "sha256": "1d62538ba975b00923657e2bf2502082914da8ce09ab4dfe81f102c148f3fb61",
- "notes": "المستحقات: عمود الجوال برقم المستأجر، ولا يظهر «واتساب» ولا أعمدة فارغة في الطباعة.",
- "sig": "7NSLt1dEth6c4C6G2VBY5GTjtTZp+Sjm63DSZLTupyQmSDORML3RZP1fEweORBP5ZZZyLCBAgwTpHILtnXHMAw==",
+ "v": 84,
+ "appv": "2026-11-21 v84",
+ "file": "ras-drayhima-v84.upd",
+ "size": 989379,
+ "sha256": "c57577ac1bd9503083a27f83dc70c1ab2e1e37738c62b2982c6e3045d349e2ba",
+ "notes": "شاشة الصرف: تعرض الآن سندات الصرف ومصروفات الصندوق والبنك المُدخلة في الدفاتر.",
+ "sig": "PZ2c2L/1k28muvAfFMztxCm5iLOdu485Ff7JmOenS6+JSZt+PaUr5x+7rHui6y8fpg+L9ih4Lf98DxIPa99WAQ==",
  "enc": "aes-256-gcm"
 }
