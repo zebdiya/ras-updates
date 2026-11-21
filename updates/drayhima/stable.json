@@ -1,12 +1,12 @@
 {
  "edition": "drayhima",
  "channel": "stable",
- "v": 84,
- "appv": "2026-11-21 v84",
- "file": "ras-drayhima-v84.upd",
- "size": 989379,
- "sha256": "c57577ac1bd9503083a27f83dc70c1ab2e1e37738c62b2982c6e3045d349e2ba",
- "notes": "شاشة الصرف: تعرض الآن سندات الصرف ومصروفات الصندوق والبنك المُدخلة في الدفاتر.",
- "sig": "dYNHxWMkLa2QrkMIYF6GU46Jm/JDvumqX9f5PaEda2XEyw/inSeVh1ULWgU0vIP1lzlssuC/Z0TWQYk9SV6oAQ==",
+ "v": 85,
+ "appv": "2026-11-21 v85",
+ "file": "ras-drayhima-v85.upd",
+ "size": 990110,
+ "sha256": "f2edb55209680fb10fa48c62cc62ec2600e4dd7ee69cd8b341d804ef4fd028ca",
+ "notes": "تحسين شكل الدفاتر والكشوف: وصف مختصر بعنوان وسطر مرجع، وأرقام وأزرار أيقونات مرتبة.",
+ "sig": "kbbGJ9jlRt7MZTEEH/03Lf66flav3sStV9j69W56PpF2SPKfEz6/5/dAzmpgma/cVa7FPVWcgqUL9QllZvlXBA==",
  "enc": "aes-256-gcm"
 }
