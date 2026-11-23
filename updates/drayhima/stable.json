@@ -1,12 +1,12 @@
 {
  "edition": "drayhima",
  "channel": "stable",
- "v": 89,
- "appv": "2026-11-21 v89",
- "file": "ras-drayhima-v89.upd",
- "size": 994810,
- "sha256": "2996f9861cd7b4daf02fa0e8d81a40ba74f20f66b3c272d250d20aa781ea4013",
- "notes": "كشف الحساب: زر «عرض الكشف» يعطي رسالة واضحة بعدد الحركات والرصيد ويمرّر إلى الجدول.",
- "sig": "DyxbiePlWJmZt+RSpnEBNxMhrbD0b2bWypFSj8AZP3O+SFnqh33nurDpiWCRqF1pif3ukl1F1Du5gp4HnzPNCQ==",
+ "v": 90,
+ "appv": "2026-11-23 v90",
+ "file": "ras-drayhima-v90.upd",
+ "size": 996000,
+ "sha256": "16c3d8202465e96d0904dcf347fab8a233eaf1c68313cee99ed35362ed38d811",
+ "notes": "",
+ "sig": "YvhjTY08vOv1J4ZV9xtLjdam86XcV2HtmpstQEEe5hGLxEZ3GFkZgb1ktcx7QT59T7Bn4AInjDdE9FdbnpQYBg==",
  "enc": "aes-256-gcm"
 }
