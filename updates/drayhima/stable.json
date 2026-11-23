@@ -6,7 +6,7 @@
  "file": "ras-drayhima-v90.upd",
  "size": 996000,
  "sha256": "16c3d8202465e96d0904dcf347fab8a233eaf1c68313cee99ed35362ed38d811",
- "notes": "",
+ "notes": "سندات القبض والصرف: مربع جديد «طباعة عدة سندات دفعة واحدة» — اكتب عدد آخر السندات (مثل 20) أو من رقم إلى رقم، ويطبعها سندين في كل صفحة A4 أو يحفظها PDF.",
  "sig": "YvhjTY08vOv1J4ZV9xtLjdam86XcV2HtmpstQEEe5hGLxEZ3GFkZgb1ktcx7QT59T7Bn4AInjDdE9FdbnpQYBg==",
  "enc": "aes-256-gcm"
 }
