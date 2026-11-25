@@ -1,12 +1,12 @@
 {
   "product": "qitaa",
   "channel": "stable",
-  "v": 3,
-  "name": "2.1",
-  "notes": "الإصدار 2.1: الأصناف والمخزون والمشتريات والاستيراد، الصندوق والبنوك والتسوية البنكية، البحث برقم الهيكل، والتحديث بضغطة زر.",
-  "file": "qitaa-v3.upd",
-  "sha256": "fcc0e0e4b921f7c0b521e2b99be82fe222099d7be12f7d504b81087496906d3d",
-  "size": 278298,
+  "v": 4,
+  "name": "2.2",
+  "notes": "المبيعات: نقطة بيع سريعة مع البدائل المتوفرة، فاتورة ضريبية بـ QR، واتساب، مرتجعات، عروض أسعار، سيارات العملاء، طلبيات العملاء",
+  "file": "qitaa-v4.upd",
+  "sha256": "6226eb2617f4fdd5c2ed895d4365d0e27775898e43b6bb13e070d82cc068c2e0",
+  "size": 320263,
   "enc": "aes-256-gcm",
-  "sig": "kGtLQb7FSARSbK1M+kB1ywWlkzcFOLa8NG29Y8kcAU2p+2DYFq8bmiIbLW5wzqZcKDrcXNNrPpFcdQ15JucEDw=="
+  "sig": "BhYdr3BdNSn+zPu+MP+ebb1cdYmR1BsaldtGrdbz7XEzFuolToK/xXpHbbrWoqUA4nnMX9KrFfI8e/EZfb2UCw=="
 }
