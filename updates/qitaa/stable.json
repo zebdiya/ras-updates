@@ -1,12 +1,12 @@
 {
   "product": "qitaa",
   "channel": "stable",
-  "v": 4,
-  "name": "2.2",
-  "notes": "المبيعات: نقطة بيع سريعة مع البدائل المتوفرة، فاتورة ضريبية بـ QR، واتساب، مرتجعات، عروض أسعار، سيارات العملاء، طلبيات العملاء",
-  "file": "qitaa-v4.upd",
-  "sha256": "6226eb2617f4fdd5c2ed895d4365d0e27775898e43b6bb13e070d82cc068c2e0",
-  "size": 320263,
+  "v": 5,
+  "name": "2.3",
+  "notes": "استيراد الحاوية من ملف المورد، التسعير الجماعي بنسبة الربح مع التراجع، بحث مرن بالمرادفات، والكمية في كل مستودع عند البحث",
+  "file": "qitaa-v5.upd",
+  "sha256": "7df1cb5f1ece4ce58f75e4741fc94423a56b5c91d4bf6a547a9daed38e167051",
+  "size": 338470,
   "enc": "aes-256-gcm",
-  "sig": "BhYdr3BdNSn+zPu+MP+ebb1cdYmR1BsaldtGrdbz7XEzFuolToK/xXpHbbrWoqUA4nnMX9KrFfI8e/EZfb2UCw=="
+  "sig": "ucE3NCv6TrEfCGOLUKkLc1aeNqlAMmfPBJmU3NG8IWgF6ElO0PxRq+mXD4yVkXQ4yRLSoVzq30KWs/mjRB6cDw=="
 }
