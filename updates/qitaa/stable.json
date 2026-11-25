@@ -1,0 +1,12 @@
+{
+  "product": "qitaa",
+  "channel": "stable",
+  "v": 3,
+  "name": "2.1",
+  "notes": "الإصدار 2.1: الأصناف والمخزون والمشتريات والاستيراد، الصندوق والبنوك والتسوية البنكية، البحث برقم الهيكل، والتحديث بضغطة زر.",
+  "file": "qitaa-v3.upd",
+  "sha256": "fcc0e0e4b921f7c0b521e2b99be82fe222099d7be12f7d504b81087496906d3d",
+  "size": 278298,
+  "enc": "aes-256-gcm",
+  "sig": "kGtLQb7FSARSbK1M+kB1ywWlkzcFOLa8NG29Y8kcAU2p+2DYFq8bmiIbLW5wzqZcKDrcXNNrPpFcdQ15JucEDw=="
+}
